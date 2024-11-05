@@ -28,7 +28,7 @@ A linear data structure following First In, First Out (FIFO) order.
 Types: Simple Queue, Circular Queue, Priority Queue.
 Example Code: Enqueue, Dequeue, Peek operations.
 
-5.Hash Tables
+5. Hash Tables
 
 Stores key-value pairs and provides efficient data retrieval.
 Key operations: Insert, Delete, Search.
@@ -40,7 +40,7 @@ A hierarchical data structure with nodes connected by edges.
 Types: Binary Trees, Binary Search Trees, AVL Trees, etc.
 Example Code: Insertion, traversal (In-order, Pre-order, Post-order).
 
-7.Graphs
+7. Graphs
 
 A collection of nodes (vertices) connected by edges.
 Types: Directed, Undirected, Weighted Graphs.
