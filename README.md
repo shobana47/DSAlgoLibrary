@@ -22,7 +22,7 @@ A linear data structure following Last In, First Out (LIFO) order.
 Key operations: Push, Pop, Peek.
 Example Code: Stack implementation using arrays and linked lists.
 
-4.Queues
+4. Queues
 
 A linear data structure following First In, First Out (FIFO) order.
 Types: Simple Queue, Circular Queue, Priority Queue.
@@ -34,7 +34,7 @@ Stores key-value pairs and provides efficient data retrieval.
 Key operations: Insert, Delete, Search.
 Example Code: Hash functions, collision resolution methods (chaining, open addressing).
 
-6.Trees
+6. Trees
 
 A hierarchical data structure with nodes connected by edges.
 Types: Binary Trees, Binary Search Trees, AVL Trees, etc.
